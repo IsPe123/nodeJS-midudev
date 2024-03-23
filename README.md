@@ -8,3 +8,5 @@ cjs (Common js) manera antigua (pero vigente) de importar modulos
 mjs (Ecmascript Modules) manera mas moderna de importar modulos
 
 info = modulos nativos, informacion del servidor en el que estoy ejecutando node
+
+fs (File System)
