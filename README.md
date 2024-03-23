@@ -9,4 +9,4 @@ mjs (Ecmascript Modules) manera mas moderna de importar modulos
 
 info = modulos nativos, informacion del servidor en el que estoy ejecutando node
 
-fs (File System)
+fs (File System), sync y async, async con promesas(metodo moderno) para reemplazar los callbacks(antiguo pero no obsoleto)
